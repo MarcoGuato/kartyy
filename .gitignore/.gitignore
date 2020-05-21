@@ -1,0 +1,14 @@
+INFORME DE ACTIVIDADES
+Fecha: 20/05/2020
+
+1- Botón búsqueda por ubicación instalado en Front para los clientes
+Prueba en varios buscadores para verificar 
+
+2- Correción de ubicación [ CENTALIZAR ]
+Archivo CSS Original: [ ORIGINAL_theme-4858ac1465.css ] guard en servidor [public_html/themes/emarket/assets/cache]
+Archivo CSS modificado: [ theme-4858ac1465.css ]
+
+3- Creación de vendedor de Prueba: [ ]
+— La activación de la ubicación la debe de dar de alta el administrador
+— Asta el momento solo aprobé la dirección de la cuenta de prueba que se creo
+— Creación de Shipping 
